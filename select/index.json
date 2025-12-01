@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Love is Changing",
+  "base_artist": "西田ひかる",
+  "createdAt": "2025-12-01T18:55:07.320756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/01_Hold_On_(I_Feel_Our_Love_Is_Changing)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing)",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/02_Hold_On_(I_Feel_Our_Love_Is_Changing)_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing)",
+      "artist": "B.B. King feat. The Crusaders",
+      "has_synced": true,
+      "path": "select/03_Hold_On_(I_Feel_Our_Love_Is_Changing)_B.B._King_feat._The_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing)",
+      "artist": "B.B. King & The Crusaders",
+      "has_synced": true,
+      "path": "select/04_Hold_On_(I_Feel_Our_Love_Is_Changing)_B.B._King_&_The_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing) (album version)",
+      "artist": "B.B. King, The Crusaders",
+      "has_synced": true,
+      "path": "select/05_Hold_On_(I_Feel_Our_Love_Is_Changing)_(album_version)_B.B._King,_The_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hold On (I Feel Our Love Is Changing) (album version)",
+      "artist": "King, B.B., Crusaders, The",
+      "has_synced": true,
+      "path": "select/06_Hold_On_(I_Feel_Our_Love_Is_Changing)_(album_version)_King,_B.B.,_Crusaders,_The.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Is Changing",
+      "artist": "Hikaru Nishida",
+      "has_synced": false,
+      "path": "select/07_Love_Is_Changing_Hikaru_Nishida.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold On (I Think Our Love is Changing)",
+      "artist": "Crusaders",
+      "has_synced": true,
+      "path": "select/08_Hold_On_(I_Think_Our_Love_is_Changing)_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hold On (I Think Our Love Is Changing)",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/09_Hold_On_(I_Think_Our_Love_Is_Changing)_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "019-HOLD ON (I FEEL OUR LOVE IS CHANGING)",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/10_019-HOLD_ON_(I_FEEL_OUR_LOVE_IS_CHANGING)_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold On (I Think Our Love Is Changing)",
+      "artist": "The Crusaders",
+      "has_synced": true,
+      "path": "select/11_Hold_On_(I_Think_Our_Love_Is_Changing)_The_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold On (I Think Our Love Is Changing) (featuring B.B. King)",
+      "artist": "The Crusaders",
+      "has_synced": true,
+      "path": "select/12_Hold_On_(I_Think_Our_Love_Is_Changing)_(featuring_B.B._King)_The_Crusaders.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold On (I Fell Our Love Is Changing)",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/13_Hold_On_(I_Fell_Our_Love_Is_Changing)_Joe_Cocker.lrc"
+    }
+  ]
+}
